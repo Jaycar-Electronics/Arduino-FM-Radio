@@ -39,6 +39,7 @@ Here's the connections that have to be made:
 |D10||CS||Display Chip Select
 |D11||SDI||Display Data
 |D13||CLK||Display Clock
+
 The first step is to take the FM Radio Module and bend the pins straight up. This will allow it to lie straight underneath the Prototyping Shield.
 
 ![](images/1-2-a.png)
